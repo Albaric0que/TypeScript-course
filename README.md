@@ -13,14 +13,11 @@ Feel free to explore, clone, and use the examples to strengthen your TypeScript 
 - Decorators
 - Modules and namespaces
 
+                                                          🙆🏻‍♀️🙆🏻‍♀️    ᕦ(ò_óˇ)ᕤ     🙆🏻‍♀️🙆🏻‍♀️  
+
 ## 🚀 Getting Started
 To run the examples, make sure you have Node.js and TypeScript installed. Then:
 
 ```bash
 npm install
 tsc
-```
-
-                                                                              🙆🏻‍♀️🙆🏻‍♀️    ᕦ(ò_óˇ)ᕤ     🙆🏻‍♀️🙆🏻‍♀️  
-
-                                                                    
