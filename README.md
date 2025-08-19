@@ -13,13 +13,20 @@ Feel free to explore, clone, and use the examples to strengthen your TypeScript 
 - Decorators
 - Modules and namespaces
 
-
-   🙆🏻‍♀️🙆🏻‍♀️    ᕦ(ò_óˇ)ᕤ     🙆🏻‍♀️🙆🏻‍♀️  
-
-
 ## 🚀 Getting Started
-To run the examples, make sure you have Node.js and TypeScript installed. Then:
+To run the examples, make sure you have [Node.js](https://nodejs.org/) installed. Then, install TypeScript using one of the following methods:
 
+### Option 1: Install TypeScript globally
 ```bash
-npm install
-tsc
+npm install -g typescript
+```
+### Option 2: Install TypeScript locally as a dev dependency
+```
+npm install --save-dev typescript
+```
+Once installed, you can compile the code by running tsc in the project directory:
+```
+npx tsc
+```
+
+ 🙆🏻‍♀️🙆🏻‍♀️    ᕦ(ò_óˇ)ᕤ     🙆🏻‍♀️🙆🏻‍♀️  
