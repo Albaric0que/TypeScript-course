@@ -19,6 +19,8 @@ To run the examples, make sure you have Node.js and TypeScript installed. Then:
 ```bash
 npm install
 tsc
+```
 
+                                                                              🙆🏻‍♀️🙆🏻‍♀️    ᕦ(ò_óˇ)ᕤ     🙆🏻‍♀️🙆🏻‍♀️  
 
-                                                                    🙆🏻‍♀️🙆🏻‍♀️    ᕦ(ò_óˇ)ᕤ     🙆🏻‍♀️🙆🏻‍♀️  
+                                                                    
